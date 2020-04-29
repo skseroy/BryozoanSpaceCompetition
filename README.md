@@ -1,5 +1,3 @@
-# Seroy_and_Grunbaum_2020
-
 Python(2.7) and R(3.4.1) code used in Seroy and Grunbaum (2020)
 
 Spatially-explicit bryozoan model versions
