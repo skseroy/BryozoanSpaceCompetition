@@ -1,7 +1,7 @@
 Data files for Seroy and Grunbaum (2020) manuscript
 
 Data labels:
-pH = experimnetal growth rates replicated from these pHs (7.9 = representative of ambient conditions)
+pH = experimental growth rates replicated from these pHs (7.9 = representative of ambient conditions)
 pop_dens = # of colonies in simulation
 settle_time = settlement time of later settling cohort (days)
 COD = cost of defense (mm2)
